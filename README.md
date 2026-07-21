@@ -200,7 +200,7 @@ Loan-Approval-EDA-Dashboard
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/Loan-Approval-EDA-Dashboard.git
+git clone https://github.com/Shreya9996/Loan-Approval-EDA-Dashboard.git
 ```
 
 ### Install Dependencies
